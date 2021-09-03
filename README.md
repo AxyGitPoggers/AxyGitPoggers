@@ -6,7 +6,7 @@ this is my website for all of my projects and stuff...
 
 # My Current Projects
 
-[List Here](https://github.com/AxyGitPoggers?tab=repositories)
+![List Here](https://github.com/AxyGitPoggers?tab=repositories)
 
 # Programming Languages I Use
 
@@ -66,4 +66,4 @@ this is my website for all of my projects and stuff...
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# Thats It For Now
+Thats It For Now.
