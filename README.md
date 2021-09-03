@@ -11,6 +11,8 @@ this is my website for all of my projects and stuff...
 
 ## Programming Languages I Use
 
+haxe (couldnt find a badge the sad)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +32,10 @@ this is my website for all of my projects and stuff...
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Libraries I Use
+
+openfl (couldnt find a badge the sad)
+
+haxeflixel (couldnt find a badge the sad)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
