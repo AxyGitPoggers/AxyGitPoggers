@@ -1,14 +1,14 @@
 # Defiances website
-# Info
+## Info
 hello.
 
 this is my website for all of my projects and stuff...
 
-# My Current Projects
+## My Current Projects
 
 [List Here](https://github.com/AxyGitPoggers?tab=repositories)
 
-# Programming Languages I Use
+## Programming Languages I Use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -28,7 +28,7 @@ this is my website for all of my projects and stuff...
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# Libraries I Use
+## Libraries I Use
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -42,13 +42,13 @@ this is my website for all of my projects and stuff...
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-# Programs I Use
+## Programs I Use
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-# IDEs / Code Editors
+## IDEs / Code Editors
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
@@ -58,7 +58,7 @@ this is my website for all of my projects and stuff...
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-# Other Things I Use
+## Other Things I Use
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
