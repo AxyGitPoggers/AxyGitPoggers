@@ -1,8 +1,7 @@
-### Hi there 👋
+### def
 
+hello.
 
-- 🔭 I’m currently working on flix engine
-- 🌱 I’m currently learning haxe,lua and python
-- 👯 I’m looking to collaborate on any projects
+this is my website for all of my projects and stuff...
 
 
